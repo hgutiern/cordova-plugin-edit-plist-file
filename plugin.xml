@@ -41,6 +41,8 @@
                 <string>soundcloud</string>
                 <string>fb-messenger</string>
                 <string>instagram</string>
+                <string>com.entel.movil</string>
+                <string>com.entel.movil.autoactivacion</string>
             </array>
         </config-file>
         
